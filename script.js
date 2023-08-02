@@ -6,7 +6,9 @@ let songlist =
 
 'Barbie World',
 
-'Vampire'
+'Vampire',
+
+'Levitating'
 
 ];
 
